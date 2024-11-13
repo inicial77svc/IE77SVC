@@ -47,7 +47,7 @@ footer {
     color: white;
 }
 
-#noticas .contenedorpostfacebook {
+.contenedorpostfacebook {
     display: flex;
     flex-wrap: wrap;
     gap:20px;
